@@ -12,7 +12,7 @@ I have a goal to take JavaScript Development course and work as a Front-end deve
 
 It’s really important for me to grow as a specialist and see the result of my work. I have good communication skills and ability to learn new information.
 
-## Edication
+## Education
 Belarusian National Technical University
 Information Systems and Technologies
 2018-2022
