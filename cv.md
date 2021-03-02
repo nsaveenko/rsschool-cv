@@ -1,14 +1,16 @@
 # Nastassia Savenko
 ---
-_**Mobile phone:** +375336842292_
-_**E-mail:** nn.saveenko@gmail.com_
-_[Lincked In](https://www.linkedin.com/in/nastassia-savenko-169107189/)_
-_[GitHub](https://github.com/nsaveenko)_
+##### _**Mobile phone:** +375336842292_
+##### _**E-mail:** nn.saveenko@gmail.com_
+##### _[Lincked In](https://www.linkedin.com/in/nastassia-savenko-169107189/)_
+##### _[GitHub](https://github.com/nsaveenko)_
 
 ---
 
 ## Objective
 I have a goal to take JavaScript Development course and work as a Front-end developer in the future. 
+
+It’s really important for me to grow as a specialist and see the result of my work. I have good communication skills and ability to learn new information.
 
 ## Edication
 Belarusian National Technical University
