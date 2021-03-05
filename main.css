@@ -91,6 +91,8 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 
 .first-column-wrapper {
@@ -285,13 +287,18 @@ header {
     color: #363636;
 }
 
+footer {
+    background-color: #DDEEDD;
+}
+
 .footer-wrapper {
+    max-width: 1400px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-around;
     flex-direction: row;
     align-items: center;
     height: 70px;
-    background-color: #DDEEDD;
 }
 
 .footer__github-icon {
